@@ -1,9 +1,10 @@
 # Comandos utiles de Git
 
-1- git init
+1- git init (iniciar)
 2- git add .
 3- git reset . (revierte todo lo que hace el git add)
-4- git commit
-5- git checkout -- .
-sdada
-s
+4- git commit -m "titulo del commit" (para hacer commit)
+5- git checkout -- . (vuelve al ultimo commit)
+6- git log (muestra los commits que hemos hecho)
+7- git commit --amend (editar nombre de los commit anteriores)
+8- git checkout -b rama-heroes
