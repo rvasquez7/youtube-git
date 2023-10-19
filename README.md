@@ -10,7 +10,8 @@
 8. git checkout -b nombre-rama (crear una nueva rama)
 9. git checkout master (ir a nuestra rama principal)
 10. git branch -d nombre-rama (eliminar una rama)
-
+11. git push
+12. git commit -am
 
 git merge nombre-rama (para mergchear rama con rama master)
 
