@@ -12,8 +12,5 @@
 10. git branch -d nombre-rama (eliminar una rama)
 11. git push
 12. git commit -am
-
-git merge nombre-rama (para mergchear rama con rama master)
-
-
-git branch (muestra en que rama estamos)
+13. git merge nombre-rama (para mergchear rama con rama master)
+14. git branch (muestra en que rama estamos)
